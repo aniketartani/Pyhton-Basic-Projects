@@ -1,5 +1,5 @@
 # Pyhton-Basic-Projects
-Install Libraries before running any project.
+Install Libraries before running any project.<br>
 If you want to learn, how to make these projects you can visit-https://www.youtube.com/channel/UCTrRM88BYvqwFuMwd7Q1aqQ
 1)QR code generator.
 
