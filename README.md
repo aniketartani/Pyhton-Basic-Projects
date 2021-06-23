@@ -10,3 +10,5 @@ If you want to learn, how to make these projects you can visit-https://www.youtu
 4)Video to gif.
 
 5)URL shortener.
+
+6)Automatic whatsapp message sender.
