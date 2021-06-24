@@ -12,3 +12,5 @@ If you want to learn, how to make these projects you can visit-https://www.youtu
 5)URL shortener.
 
 6)Automatic whatsapp message sender.
+
+7)System shutdown using python
