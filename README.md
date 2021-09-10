@@ -20,3 +20,5 @@ If you want to learn, how to make these projects you can visit-https://www.youtu
 9)Otp Sender as SMS using Python
 
 10)Youtbe Video Downloader
+
+11) Car Price prediction using Python ML
